@@ -162,3 +162,9 @@ cython_debug/
 .env/*
 .idea
 .vscode
+
+# development scripts
+dev_playground.ipynb
+
+# secrets
+.streamlit/secrets.toml
